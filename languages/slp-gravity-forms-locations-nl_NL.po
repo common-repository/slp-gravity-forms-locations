@@ -1,0 +1,716 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Locator Plus® - Gravity Forms Locations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-29 09:37+0100\n"
+"PO-Revision-Date: 2022-12-29 09:37+0100\n"
+"Last-Translator: De B.A.A.T. <wordpress@de-baat.nl>\n"
+"Language-Team: De B.A.A.T. <slp-gravity-forms-locations@de-baat.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:145
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:68
+msgid "Gravity Forms Locations"
+msgstr "Gravity Forms Locations"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:321
+#, php-format
+msgid "SLP %s has been deactivated."
+msgstr "SLP %s is gedeactiveerd."
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:325
+#, php-format
+msgid "This plugin requires %s to be installed and active."
+msgstr ""
+"Voor deze plug-in is het vereist dat %s geïnstalleerd en geactiveerd is."
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:329
+#, php-format
+msgid ""
+"Please <a href=\"%s\">download</a> at least version %s of %s and try again."
+msgstr ""
+"<a href=\"%s\">Download</a> aub minimaal versie %s van %s en probeer het "
+"opnieuw."
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:361
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:383
+#: include/SLP_Gravity_Forms_Locations.php:394
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:109
+#: include/slp-gfl-gravityforms.php:26
+msgid "GFL Mappings"
+msgstr "GFL Mappings"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:384
+msgid "GFL Mapping"
+msgstr "GFL Mapping"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:385
+msgid "Add New"
+msgstr "Nieuwe Toevoegen"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:386
+msgid "Add New GFL Mapping"
+msgstr "Voeg Nieuwe GFL Mapping Toe"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:387
+msgid "Edit GFL Mapping"
+msgstr "Bewerk GFL Mapping"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:388
+msgid "New GFL Mapping"
+msgstr "Nieuwe GFL Mapping"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:389
+msgid "View GFL Mapping"
+msgstr "Bekijk GFL Mapping"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:390
+msgid "Search GFL Mappings"
+msgstr "Zoek GFL Mapping"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:391
+msgid "No gfl mappings found"
+msgstr "Geen gfl mappings gevonden"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:392
+msgid "No gfl mappings found in Trash"
+msgstr "Geen gfl mappings gevonden in Prullenbak"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:393
+msgid "Parent GFL Mapping:"
+msgstr "Parent GFL Mapping:"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:400
+msgid "This post_type contains the mappings for GF to SLP."
+msgstr "Dit post_type bevat de mappings voor GF naar SLP."
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:434
+msgid "Title"
+msgstr "Titel"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:435
+msgid "Form Title"
+msgstr "Formulier Titel"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:436
+msgid "Form ID"
+msgstr "Formulier ID"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:437
+msgid "Date"
+msgstr "Datum"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:480
+msgid "Configuration"
+msgstr "Configuratie"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:775
+msgid "Remove"
+msgstr "Verwijder"
+
+# @ slp-gravity-forms-locations
+#: include/SLP_Gravity_Forms_Locations.php:790
+msgid "Update Location"
+msgstr "Bewerk Locatie"
+
+#: include/base/loader.php:17
+#, php-format
+msgid "%s requires Store Locator Plus to function properly. "
+msgstr "%s heeft Store Locator Plus nodig om goed te functioneren. "
+
+# @ slp-gravity-forms-locations
+#: include/base/loader.php:20 include/base/loader.php:42
+msgid "This plugin has been deactivated."
+msgstr "Deze plug-in is gedeactiveerd."
+
+# @ slp-gravity-forms-locations
+#: include/base/loader.php:21
+msgid "Please install Store Locator Plus."
+msgstr "Installeer Store Locator Plus aub."
+
+#: include/base/loader.php:38
+#, php-format
+msgid "%s requires WordPress %s to function properly. "
+msgstr "%s heeft WordPress %s nodig om goed te functioneren. "
+
+# @ slp-gravity-forms-locations
+#: include/base/loader.php:43
+msgid "Please upgrade WordPress."
+msgstr "Upgrade WordPress aub."
+
+# @ slp-gravity-forms-locations
+#: include/module/activation/SLP_Gravity_Forms_Locations_Activation.php:84
+msgid "GF Entry ID"
+msgstr "GF Inzending ID"
+
+# @ slp-gravity-forms-locations
+#: include/module/activation/SLP_Gravity_Forms_Locations_Activation.php:85
+msgid "GF Forms ID"
+msgstr "GF Formulier ID"
+
+# @ slp-gravity-forms-locations
+#: include/module/activation/SLP_Gravity_Forms_Locations_Activation.php:86
+msgid "GF Mapping ID"
+msgstr "GF Mapping ID"
+
+# @ slp-gravity-forms-locations
+#: include/module/activation/SLP_Gravity_Forms_Locations_Activation.php:87
+msgid "GF Post ID"
+msgstr "GF Post ID"
+
+# @ slp-gravity-forms-locations
+#: include/module/activation/SLP_Gravity_Forms_Locations_Activation.php:88
+msgid "GF Resume Token"
+msgstr "GF Resume Token"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:227
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:121
+msgid "Documentation"
+msgstr "Documentatie"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:231
+msgid "Settings"
+msgstr "Instellingen"
+
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:260
+#, php-format
+msgid "The %s add-on deactivated the conflicting %s add-on. "
+msgstr "De %s add-on deactiveerde de conflicterende %s add-on. "
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:320
+msgid "Assign GF Form ID"
+msgstr "Voeg GF Form ID Toe"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:324
+msgid "Define the GF Form ID to assign:"
+msgstr "Definieer de GF Form ID om toe te kennen:"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:331
+msgid "Remove GF Form ID"
+msgstr "Verwijder GF Form ID"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:450
+msgid "Name"
+msgstr "Naam"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:451
+#: include/slp-gfl-meta-box-config.php:127
+msgid "Address"
+msgstr "Adres"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:452
+#: include/slp-gfl-meta-box-config.php:128
+msgid "Address 2"
+msgstr "Adresregel 2"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:453
+#: include/slp-gfl-meta-box-config.php:129
+msgid "City"
+msgstr "Plaats"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:454
+#: include/slp-gfl-meta-box-config.php:130
+msgid "State"
+msgstr "Provincie"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:455
+#: include/slp-gfl-meta-box-config.php:131
+msgid "Zip"
+msgstr "Postcode"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:456
+#: include/slp-gfl-meta-box-config.php:132
+msgid "Country"
+msgstr "Land"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:457
+msgid "Tags"
+msgstr "Tags"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:458
+msgid "Image"
+msgstr "Plaatje"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:459
+msgid "Description"
+msgstr "Omschrijving"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:460
+#: include/slp-gfl-meta-box-config.php:126
+msgid "Email"
+msgstr "Email"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:462
+msgid "Website"
+msgstr "Web site"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:466
+msgid "Hours"
+msgstr "Uren"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:470
+msgid "Phone"
+msgstr "Telefoon"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin.php:474
+msgid "Fax"
+msgstr "Fax"
+
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:27
+msgid " - Gravity Forms Locations"
+msgstr " - Gravity Forms Locaties"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:29
+msgid "Save Settings"
+msgstr "Sla Instellingen Op"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:90
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:108
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:67
+msgid "Explanation"
+msgstr "Uitleg"
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:113
+#, php-format
+msgid "Manage the <a href=\"%s\">%s</a> post type entries."
+msgstr "Beheer de <a href=\"%s\">%s</a> post type inzendingen."
+
+# @ slp-gravity-forms-locations
+#: include/module/admin/SLP_Gravity_Forms_Locations_Admin_Settings.php:125
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:126
+#, php-format
+msgid "View the <a href=\"%s\" target=\"csa\">documentation</a> for more info."
+msgstr ""
+"Bekijk de <a href=\"%s\" target=\"csa\">documentatie</a> voor meer info."
+
+#: include/module/tagalong/SLP_Gravity_Forms_Locations_Tagalong.php:82
+msgid "GFL Tagalong Categories"
+msgstr "GFL Tagalong Categorieën"
+
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:63
+msgid "Gravity Forms Section"
+msgstr "Gravity Forms Sectie"
+
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:66
+msgid "Free Settings"
+msgstr "Instellingen"
+
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:78
+msgid "Premium Settings"
+msgstr "Premium Instellingen"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:88
+msgid "Skip Geocoding"
+msgstr "Geocodering Overslaan"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:89
+msgid "Duplicates Handling"
+msgstr "Duplicaten Afhandeling"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:92
+msgid ""
+"When enabled, the geocode of a newly entered location is skipped to block "
+"publishing."
+msgstr ""
+"Als aangezet wordt de geocodering van een nieuw ingevoerde locatie "
+"overgeslagen om publicatie te voorkomen."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:93
+msgid "When disabled, a newly entered location is published immediately."
+msgstr "Als uitgezet wordt een nieuw ingevoerde locatie meteen gepubliceerd."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:94
+#, php-format
+msgid ""
+"This needs the re-geocoding functionality of %s to publish blocked locations."
+msgstr ""
+"Hiervoor is de geocodering functie van %s nodig om de geblokkeerde locaties "
+"alsnog te publiceren."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:96
+msgid "How should duplicates be handled?"
+msgstr "Hoe moeten dubbele locaties worden afgehandeld?"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:97
+msgid ""
+"Duplicates are records that match on name and complete address with country."
+msgstr ""
+"Duplicaten zijn records die matchen op naam en volledig adres, inclusief "
+"land."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:98
+msgid "Add (default) will add new records when duplicates are encountered."
+msgstr ""
+"Toevoegen (default) voegt een nieuw record toe als een duplicaat is "
+"gedetecteerd."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:99
+msgid "Skip will not process duplicate records."
+msgstr "Overslaan zal duplicaten niet verder verwerken."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:100
+msgid "Update will update duplicate records."
+msgstr "Bijwerken zal duplicaten bijwerken."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:101
+msgid ""
+"To update name and address fields the CSV must have the ID column with the "
+"ID of the existing location."
+msgstr ""
+"Om naam en adres velden bij te werken moet de CSV een ID kolom hebben met "
+"het ID van de bestaande locatie."
+
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:111
+msgid "Show GFL buttons"
+msgstr "Toon GFL buttons"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:112
+msgid "Allow GForm Editing"
+msgstr "Sta GForm Bewerken Toe"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:114
+msgid "GF Form ID Selector"
+msgstr "GF Form ID Selector"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:115
+msgid "GF Form ID Selector Label"
+msgstr "GF Form ID Selector Label"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:116
+msgid "GF Form ID Selector First Entry"
+msgstr "GF Form ID Selector Eerste Optie"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:117
+msgid "GF Form ID Selector None Entry"
+msgstr "GF Form ID Selector Geen Optie"
+
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:119
+msgid "GF Form ID Selector Search Labels"
+msgstr "GF Form ID Selector Zoeklabels"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:122
+msgid "When enabled an edit button is added to assist managing locations."
+msgstr ""
+"Als aangezet wordt een bewerk knop getoond om te helpen een locatie te "
+"beheren."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:123
+msgid ""
+"Which type of users are allowed to edit location data via the Gravity Form "
+"used to add the location?"
+msgstr ""
+"Wat type gebruikers mogen locatie data bewerken via het Gravity Form dat is "
+"gebruikt om de locatie toe te voegen?"
+
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:124
+msgid "How"
+msgstr "Hoe"
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:125
+msgid "Show the GF Form ID selector on the search form."
+msgstr "Toon de GF Form ID selector op het zoekformulier."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:127
+msgid "Consider setting ignore radius when using discrete search mode."
+msgstr "Overweeg de afstand te negeren bij gebruik van de discrete zoek modus."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:128
+msgid "The label that precedes the GF Form ID selector."
+msgstr "Het label dat voorafgaat aan de GF Form ID selector."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:129
+msgid "The first entry on the search by GF Form ID selector."
+msgstr "De eerste optie van de zoeken op GF Form ID selector."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:130
+msgid "The second entry on the search by GF Form ID selector."
+msgstr "De tweede optie in de zoek op GF Form ID selectie."
+
+# @ slp-gravity-forms-locations
+#: include/module/text/SLP_Gravity_Forms_Locations_Text.php:131
+msgid "This value can be used to search for locations NOT related to any form."
+msgstr ""
+"Deze waarde kan worden gebruikt om te zoeken naar locaties die NIET "
+"gerelateerd zijn aan een formulier."
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:30
+msgid "Gravity Form"
+msgstr "Gravity Form"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:35
+msgid "&mdash; Select a form &mdash;"
+msgstr "&mdash; Selecteer een formulier &mdash;"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:50
+msgid "Condition"
+msgstr "Conditie"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:66
+msgid "Enable"
+msgstr "Aanzetten"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:81
+msgid "is"
+msgstr "is"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:82
+msgid "is not"
+msgstr "is niet"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:101
+#, php-format
+msgid "Create a location if %s %s %s"
+msgstr "Creëer een locatie als %s %s %s"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:111
+msgid ""
+"To create a condition, your form must have a drop down, checkbox or multiple "
+"choice field."
+msgstr ""
+"Om een conditie te kunnen maken moet je formulier een drop down, checkbox of "
+"multiple choice veld hebben."
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:118
+msgid "Fields"
+msgstr "Velden"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:124
+msgid "First Name"
+msgstr "Voornaam"
+
+# @ slp-gravity-forms-locations
+#: include/slp-gfl-meta-box-config.php:125
+msgid "Last Name"
+msgstr "Achternaam"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Add"
+#~ msgstr "Toevoegen"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Update"
+#~ msgstr "Bijwerken"
+
+# @ slp-gravity-forms-locations
+#~ msgid "General"
+#~ msgstr "Algemeen"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Skip"
+#~ msgstr "Overslaan"
+
+# @ slp-gravity-forms-locations
+#~ msgid "GFL Custom Post Types"
+#~ msgstr "GFL Custom Post Types"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Settings saved."
+#~ msgstr "Instellingen opgeslagen."
+
+# @ slp-gravity-forms-locations
+#~ msgid ""
+#~ "A free add-on pack for Store Locator Plus that supports basic locations "
+#~ "for Gravity Forms."
+#~ msgstr ""
+#~ "Een gratis add-on voor Store Locator Plus die basis locaties ondersteunt "
+#~ "voor Gravity Forms."
+
+# @ slp-gravity-forms-locations
+#~ msgid "Store Locator Plus : Gravity Forms Locations"
+#~ msgstr "Store Locator Plus : Gravity Forms Locations"
+
+# @ slp-gravity-forms-locations
+#~ msgid "https://www.storelocatorplus.com/product/gravity-forms-locations/"
+#~ msgstr "https://www.storelocatorplus.com/product/gravity-forms-locations/"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Store Locator Plus - De B.A.A.T."
+#~ msgstr "Store Locator Plus - De B.A.A.T."
+
+# @ slp-gravity-forms-locations
+#~ msgid "https://www.de-baat.nl/slp/"
+#~ msgstr "https://www.de-baat.nl/slp/"
+
+# @ slp-gravity-forms-locations
+#, php-format
+#~ msgid "%s requires Store Locator Plus to function properly."
+#~ msgstr "%s heeft Store Locator Plus nodig om correct te functioneren."
+
+# @ slp-gravity-forms-locations
+#, php-format
+#~ msgid "%s requires WordPress %s to function properly."
+#~ msgstr "%s heeft WordPress %s nodig om correct te kunnen functioneren."
+
+# @ slp-gravity-forms-locations
+#~ msgid "4.6.00"
+#~ msgstr "4.6.00"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Hidden"
+#~ msgstr "Verborgen"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Dropdown, Discrete Filter"
+#~ msgstr "DropDown, Discreet Filter"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Store Locator Plus : Gravity Forms Integration"
+#~ msgstr "Store Locator Plus : Gravity Forms Integration"
+
+# @ slp-gravity-forms-locations
+#~ msgid ""
+#~ "A premium add-on pack for Store Locator Plus that supports locations for "
+#~ "Gravity Forms."
+#~ msgstr ""
+#~ "Een premium add-on pakket voor Store Locator Plus die locaties "
+#~ "ondersteunt voor Gravity Forms."
+
+# @ slp-gravity-forms-locations
+#~ msgid "Gravity Forms Integration"
+#~ msgstr "Gravity Forms Integration"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Gravity Forms Pro"
+#~ msgstr "Gravity Forms Pro"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Pro Settings"
+#~ msgstr "Pro Instellingen"
+
+# @ slp-gravity-forms-locations
+#, php-format
+#~ msgid ""
+#~ "You need at least <strong><a href=\"%s\">%s</a></strong> version %s to be "
+#~ "active for SLP %s to work."
+#~ msgstr ""
+#~ "Je hebt tenminste <strong><a href=\"%s\">%s</a></strong> versie %s  nodig "
+#~ "om SLP %s te laten werken."
+
+# @ slp-gravity-forms-locations
+#~ msgid "Search Features"
+#~ msgstr "Zoek Features"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Search Labels"
+#~ msgstr "Zoek Labels"
+
+# @ slp-gravity-forms-locations
+#~ msgid "https://www.storelocatorplus.com/product/gravity-forms-integration/"
+#~ msgstr "https://www.storelocatorplus.com/product/gravity-forms-integration/"
+
+# @ slp-gravity-forms-locations
+#~ msgid "GFI Tagalong Categories"
+#~ msgstr "GFI Tagalong Categorieën"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Show GFI buttons"
+#~ msgstr "Toon GFI buttons"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Admin Only"
+#~ msgstr "Alleen Admin"
+
+# @ slp-gravity-forms-locations
+#~ msgid "Created By User Only"
+#~ msgstr "Alleen Door Gebruiker Gecreëerd"
+
+# @ slp-gravity-forms-locations
+#~ msgid "SLP Users Only"
+#~ msgstr "Alleen SLP Gebruikers"
+
+# @ slp-gravity-forms-locations
+#~ msgid "All Logged In Users"
+#~ msgstr "Alle Ingelogde Gebruikers"
